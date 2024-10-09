@@ -1,0 +1,5 @@
+this plugin needs the old com_search extension to be installed.
+
+If you are on Joomla5 and don't have come_search (basicly com_finder is installed)
+
+you may use the pkg_uddeim_search which will install the needed com_search (only with uddeim plugin) 
